@@ -4,7 +4,7 @@ _Aleksandr Popov, Egor Georgiev, St. Petersburg School of Physics, Mathematics, 
 
 ## Course Description
 
-_Basics of Programming in Python_ is an 8-week compulsory course aimed at social science students to learn programming skills for their research. There will be weekly workshops, and weekly an online course on Stepik. 
+_Basics of Programming in Python_ is an 8-week compulsory course aimed at social science students to learn programming skills for their research. There will be weekly workshops, and weekly online course on Stepik. 
 
 ## Background 
 
