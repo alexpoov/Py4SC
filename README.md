@@ -1,6 +1,6 @@
 # Python for Social Sciences | Basics of Programming in Python 
 
-_Aleksandr Popov, St. Petersburg School of Physics, Mathematics, and Computer Science_
+_Aleksandr Popov, Egor Georgiev, St. Petersburg School of Physics, Mathematics, and Computer Science_
 
 ## Course Description
 
