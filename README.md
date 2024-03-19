@@ -27,5 +27,6 @@ It contains all materials for workshops and assessment tasks, including weekly q
 
 ## References
 
-[1] Aleksandr D. Popov. 2022. Motivation and Practices of Teaching Computational Social Science to Undergraduate Political Science Students. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education (Toronto, ON, Canada) (SIGCSE ’22). Association for Computing Machinery, New York, NY, USA, 1368. https://doi.org/10.1145/3545947.3576321 
-[2] Aleksandr Popov. 2024. Simulating Election Votes. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). March 20--23, 2024, Portland, OR, USA
+[1] Aleksandr D. Popov. 2022. Motivation and Practices of Teaching Computational Social Science to Undergraduate Political Science Students. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education (Toronto, ON, Canada) (SIGCSE ’22). Association for Computing Machinery, New York, NY, USA, 1368. https://doi.org/10.1145/3545947.3576321  
+
+[2] Aleksandr Popov. 2024. Simulating Election Votes. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1915. https://doi.org/10.1145/3626253.3635336 
